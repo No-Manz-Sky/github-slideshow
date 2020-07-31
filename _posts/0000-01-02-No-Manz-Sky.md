@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the Right arrow to go back!
+"We are in this Pandemic Together"- All Corporations 
